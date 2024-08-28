@@ -4,7 +4,7 @@ from tkinter import *
 from tkinter import messagebox
 
 def fetch_user_data():
-    filename = 'students_data.json'
+    filename = 'data/students_data.json'
     
     # Check if the file exists
     if not os.path.exists(filename):
