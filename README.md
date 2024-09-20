@@ -19,7 +19,7 @@ This is the basic code to understand how the data was storing,fetching and delet
   4. updatingUserdetails.py
 
 **data**
-    student_data.json
+   1. student_data.json
 
 ## Installation
 1. **Clone the repository:**
