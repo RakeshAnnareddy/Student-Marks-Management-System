@@ -13,13 +13,13 @@ This is the basic code to understand how the data was storing,fetching and delet
 
 ## Repository Structure
 **script**
-  |- deletingUser.py "\n"
-  |- fetchingUser.py
-  |- storingUser.py
-  |- updatingUserdetails.py
+  1. deletingUser.py 
+  2. fetchingUser.py
+  3. storingUser.py
+  4. updatingUserdetails.py
 
 **data**
-  |- student_data.json
+    student_data.json
 
 ## Installation
 1. **Clone the repository:**
