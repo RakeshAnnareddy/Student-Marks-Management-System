@@ -13,7 +13,7 @@ This is the basic code to understand how the data was storing,fetching and delet
 
 ## Repository Structure
 **script**
-  |- deletingUser.py
+  |- deletingUser.py\n
   |- fetchingUser.py
   |- storingUser.py
   |- updatingUserdetails.py
