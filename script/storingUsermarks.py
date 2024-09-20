@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 def store_user_data(name, roll_number, year, subjects):
-    filename = 'data/students_data.json'
+    filename = '../data/students_data.json'
     
     # Load existing data if the file exists, otherwise start with an empty dictionary
     if os.path.exists(filename):
